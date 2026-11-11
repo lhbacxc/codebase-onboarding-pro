@@ -1,0 +1,9 @@
+# 临时工作目录和本地工具索引
+work/
+.codegraph/
+node_modules/
+
+# 本地配置与凭据
+.env
+.env.*
+!.env.example
